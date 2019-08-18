@@ -1,0 +1,53 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-08-01 23:04:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-08-01 23:04:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-08-01 23:04:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-08-01 23:04:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-08-01 23:04:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-08-01 23:04:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert_hills": "2019-08-01 23:03:24 +0200",
+      "minecraft:desert": "2019-07-30 17:40:29 +0200",
+      "minecraft:deep_lukewarm_ocean": "2019-08-01 23:04:29 +0200",
+      "minecraft:savanna_plateau": "2019-07-30 17:39:14 +0200",
+      "minecraft:beach": "2019-07-30 17:38:55 +0200",
+      "minecraft:river": "2019-07-30 17:42:06 +0200",
+      "minecraft:lukewarm_ocean": "2019-07-30 17:42:07 +0200",
+      "minecraft:savanna": "2019-07-30 17:39:04 +0200",
+      "minecraft:plains": "2019-07-30 17:38:46 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 1952
+}

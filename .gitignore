@@ -1,7 +1,6 @@
 # Created by Viktoracri
 
 *.log
-*.json
 *.yml
 *.jar
 *.sh
@@ -13,4 +12,11 @@
 *.properties
 /plugins/*
 /logs/*
+
+ops.json
+whitelist.json
+usercache.json
+banned-players.json
+banned-ips.json
+
 
