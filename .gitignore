@@ -1,0 +1,16 @@
+# Created by Viktoracri
+
+*.log
+*.json
+*.yml
+*.jar
+*.sh
+*.txt
+*.dat
+*.lock
+*.mca
+*.dat_old
+*.properties
+/plugins/*
+/logs/*
+
