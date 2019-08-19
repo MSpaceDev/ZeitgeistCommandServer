@@ -12,6 +12,8 @@
 *.properties
 /plugins/*
 /logs/*
+/world/stats/*
+/world/advancements/*
 
 ops.json
 whitelist.json
