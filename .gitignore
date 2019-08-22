@@ -1,4 +1,7 @@
 # Created by Viktoracri
+#
+# If you edit this file in any way, you will be warned or kicked off the team. 
+# This file makes sure that sensitive files aren't fiddled with.
 
 *.log
 *.yml
