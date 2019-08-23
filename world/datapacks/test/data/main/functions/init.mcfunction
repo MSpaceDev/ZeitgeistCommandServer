@@ -5,4 +5,4 @@
 scoreboard objectives add hc_tick dummy
 scoreboard objectives add hc_uninstall dummy
 
-tellraw @a [{"text":"working"}]
+tellraw @a [{"text":"working test 2"}]
