@@ -6,3 +6,4 @@ scoreboard objectives add hc_tick dummy
 scoreboard objectives add hc_uninstall dummy
 
 tellraw @a [{"text":"working test 4"}]
+tellraw @a [{"text":"meteor strikes"}]
