@@ -18,5 +18,5 @@ execute as @e[tag=lift_block] run data merge entity @s {Time:1}
 # 8 is one block
 
 # move player to next area in mine
-# execute as @a[x=783,y=3,z=2031,dx=2,dz=-2] at @s run tp @s ~24 ~229 ~40
+execute as @a[x=783,y=3,z=2031,dx=2,dy=2,dz=-2] at @s run tp @s ~24 ~229 ~40
 # say hi @a[x=783,y=3,z=2031,dx=2,dz=-2]
