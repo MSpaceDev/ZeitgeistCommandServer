@@ -1,7 +1,7 @@
 
-# Move elevator
-execute as @e[tag=lift_base] at @s if score @s lift_level < #0 constands run tp @s ~ ~-0.125 ~
-execute as @e[tag=lift_base] at @s if score @s lift_level > #0 constands run tp @s ~ ~0.125 ~
+# Move elevator ~ ~0.125 ~ is standart
+execute as @e[tag=lift_base] at @s if score @s lift_level < #0 constands run tp @s ~ ~-0.250 ~
+execute as @e[tag=lift_base] at @s if score @s lift_level > #0 constands run tp @s ~ ~0.250 ~
 
 execute as @e[tag=lift_base] at @s if score @s lift_level > #0 constands run scoreboard players remove @s lift_level 1
 execute as @e[tag=lift_base] at @s if score @s lift_level < #0 constands run scoreboard players add @s lift_level 1
